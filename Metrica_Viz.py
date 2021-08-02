@@ -15,7 +15,7 @@ UPDATE for tutorial 4: plot_pitchcontrol_for_event no longer requires 'xgrid' an
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.animation as animation
-from LaurieOnTracking import Metrica_IO as mio
+import Metrica_IO as mio
 # import Metrica_IO as mio
 
 
