@@ -11,6 +11,7 @@
 - [Data](#data)
 - [How To Use](#how-to-use)
 - [References](#references)
+- [Author Info](#author-info)
 ---
 ## Description
 I have built an interactive web app to explore the events and tracking data of diffferent football matches all together. 
