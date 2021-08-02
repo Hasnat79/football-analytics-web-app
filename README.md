@@ -39,8 +39,11 @@ git clone "https://github.com/Hasnat79/football_analytics_web_app"
 ```
 
 
-open terminal on the same folder. 
+open terminal on the same folder.
 
+```bash
+git clone "https://github.com/metrica-sports/sample-data"
+```
 ```ps
 pip install -r requirement.txt
 ```
