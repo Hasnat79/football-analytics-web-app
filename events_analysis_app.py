@@ -12,8 +12,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.animation as animation
-from LaurieOnTracking import Metrica_IO as mio
-from LaurieOnTracking import Metrica_Viz as mviz
+import Metrica_IO as mio
+import Metrica_Viz as mviz
 
 #app title
 st.title("Football Data Analysis")
