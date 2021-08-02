@@ -44,6 +44,11 @@ open terminal on the same folder.
 ```ps
 pip install -r requirement.txt
 ```
+#### Libraries
+- streamlit
+```ps
+pip install streamlit
+```
 #### API References
 
 run events analysis of the data
@@ -51,6 +56,8 @@ run events analysis of the data
 ```
 streamlit run events_analysis_app.py
 ```
+
+
 ---
 ## References 
 - [LaurieOnTracking](https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking)
